@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #1DCDFE;
+}
+
+.purple {
+    color: #1DCDFE;
+}
+.iconimg{
+    rotate: 5deg;
+    margin-right: -1%;
+}
