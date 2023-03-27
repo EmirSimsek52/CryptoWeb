@@ -8,7 +8,7 @@ const Navbar = () => {
         <Link to='/'>
             <div className='navbar'>
                 <img className='iconimg' src='https://cdn-icons-png.flaticon.com/512/2214/2214046.png'/>
-                <h1> <span className='text1'>Crypto</span><span className='purple'>Flash</span></h1>
+                <h1> <span className='text1'></span><span className='purple'>Flash</span></h1>
             </div>
         </Link>
     )
